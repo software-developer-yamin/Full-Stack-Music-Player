@@ -1,4 +1,4 @@
-import Artist from "../models/artist.js";
+import Artist from "../models/Artist.js";
 
 export const getAllHandler = async (req, res) => {
   try {
